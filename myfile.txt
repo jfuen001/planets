@@ -1,1 +1,2 @@
-myfiletest
+myfiletest this fiel was created to recap a few commands
+make changes on github
